@@ -100,3 +100,6 @@ $debugbar["messages"]->addMessage("hello world!");
  - `ExceptionsCollector` (*exceptions*)
 
 Learn more about DebugBar in the [docs](http://phpdebugbar.com/docs).
+
+
+
